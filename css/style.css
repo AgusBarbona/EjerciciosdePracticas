@@ -1,0 +1,79 @@
+main{
+
+        margin: 0 auto;
+        margin-top: 0px;
+        margin-right: auto;
+        margin-bottom: 0px;
+        margin-left: auto;
+        max-width: 720px;
+    }
+
+body {
+    overflow-x: hidden;
+    background-image: url(../imagenes/fondo/haikei.png);
+    background-size: 100% ;
+    background-position: center center;
+    width: relative;
+    height: 100vh;
+    
+    z-index: 0;
+}
+
+.TituloDePagina{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 10vh;  
+    margin: 20px;
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+    color: #523f23;
+    margin: 20px;
+}
+p{
+    display: block;
+    margin:40px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+figcaption{
+    display: block;
+    text-align: 10px;
+    font-style: italic;
+    font-weight: bold;
+    color: #cc7e08;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.rainbow-brite-1993{
+    display: block;
+    position: center center;
+    width: 80%;
+    padding: 15px;
+    border-radius: 8px;
+}
+.dragon-ball-1986{
+    display: block;
+    position: center center;
+    width: 80%;
+    padding: 15px;   
+    border-radius: 8px;
+}
+
+
+.los-picapiedras-1994{
+    display: block;
+    position: center center;
+    width: 80%;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+figure{
+    position: center;
+}
